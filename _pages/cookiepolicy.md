@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cookie Policy
+include_in_header: false
+---
+
 # PixVibe Cookies Policy
 This cookie notice applies to our websites, applications and email communications.
 
